@@ -1,13 +1,13 @@
 @font-face {
     font-family: iransans;
-    src: url('../font/iransans.ttf');
+    src: url('iransans.ttf');
 }
 
 
 
 
 .body_login{
-    background: url('../images/back_login2.jpg');
+    background: url('back_login2.jpg');
     background-size: cover;
     font-family: iransans;
 }
@@ -21,4 +21,5 @@
 
 .sb-nav-fixed{ 
 }
+
 
